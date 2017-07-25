@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">"ATMetro locator "</string>
+    <string name="title_activity_first_activity">first_activity</string>
+    <string name="search_label">something text </string>
+    <string name="search_hint">Enter station</string>
+    <string name="settings_description">something text</string>
+</resources>
